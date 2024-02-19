@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+
 <h1 align="center">Hi 👋, I'm Naitik J Patel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -62,5 +57,3 @@ Here are some ideas to get you started:
 -->
 
 
-</body>
-</html>
