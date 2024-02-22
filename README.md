@@ -38,7 +38,6 @@ Feel free to reach out for collaborations, discussions, or just a friendly codin
 </br>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naitikjpatel&show_icons=true&locale=en" alt="naitikjpatel" /></p>
-</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikjpatel&" alt="naitikjpatel" /></p>
 
 <!--
