@@ -163,10 +163,10 @@ Let's connect and collaborate! 👨‍💻✨
 </br>
 Feel free to reach out for collaborations, discussions, or just a friendly coding chat! 🚀✨</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikjpatel&show_icons=true&locale=en&layout=compact" alt="naitikjpatel" /></p>
-</br>
-</br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikjpatel&show_icons=true&locale=en&layout=compact" alt="naitikjpatel" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naitikjpatel&show_icons=true&locale=en" alt="naitikjpatel" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikjpatel&" alt="naitikjpatel" /></p>
 
 <!--
