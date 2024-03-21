@@ -16,15 +16,21 @@
     />
     <br />
     <h2>Database</h2>
+    <a href="">
     <img
       src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     />
+    </a>
+    <a href="">
     <img
       src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"
     />
+    </a>
+    <a href="">
     <img
       src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
     />
+    </a>
     <br/>
     <h2>Frameworks & Library</h2>
     <img
