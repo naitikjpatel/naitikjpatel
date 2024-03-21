@@ -33,105 +33,116 @@
     </a>
     <br/>
     <h2>Frameworks & Library</h2>
+    <a href="">
     <img
       src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"
     />
+      </a>
+    <a href="">
     <img
       src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"    />
-    <img
+    </a>
+      <a href="">
+      <img
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
  />
-    <img
+        </a>
+    <a href="">
+      <img
       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
  />
-    <img
+      </a>
+    <a href="">
+      <img
       src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
 />
+      </a>
+    <a href="">
     <img
       src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
 />
 <br />
     <h2>IDE</h2>
-    <img
+     <a href=""><img
       src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
- />
-    <img
+ /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"
-/>
-    <img
+/></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"
-/>
-    <img
+/></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
-/>
-    <img
+/></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-/>
-    <img
+/></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"
- />
-    <img
+ /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
-/>
-    <img
+/></a>
+     <a href=""><img
       src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
-/>
-    <img
+/></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
  />
  <br />
     <h2>Languages</h2>
-    <img
+    <a href=""> <img
       src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-       />
-    <img
+       /></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    />
-    <img
+    /></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    />
-    <img
+    /></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-    />
-    <img
+    /></a>
+    <a href=""> <img
       src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-    />
+    /></a>
 <br />
     <h2>Office</h2>
-    <img
+    <a href=""> <img
       src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-    />
+    /></a>
     <br />
     <h2>ORM</h2>
-    <img
+     <a href=""><img
       src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
-    />
+    /></a>
     <br />
     <h2>OS</h2>
-    <img
+    <a href=""> <img
       src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-    />
-    <img
+    /></a>
+     <a href=""><img
       src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"
-    />
+    /></a>
  </hr>
 <h3>
 <ul>👋 Hello there! I'm a passionate and dedicated third-batch computer science student with a solid foundation in C, C++, Java, Python, Data Structures, and Algorithms. 🚀
