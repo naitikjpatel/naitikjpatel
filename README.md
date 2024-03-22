@@ -143,24 +143,7 @@
       src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"
     /></a>
  </hr>
-<h3>
-<ul>👋 Hello there! I'm a passionate and dedicated third-batch computer science student with a solid foundation in C, C++, Java, Python, Data Structures, and Algorithms. 🚀
-</ul>
-<ul>
-I've honed my skills in database management with SQL Server and MySQL, and my expertise extends to web development with Servlets and JSP. I'm well-versed in data analysis using powerful libraries like NumPy, Pandas, Matplotlib, and Seaborn. 📊
-</ul>
-<ul>
-Not only do I have a knack for backend development, but I'm also delving into the exciting world of Full Stack Java development, aiming to master the intricacies of Android app development. 📱
-</ul>
-<ul>
-My GitHub is a showcase of my projects, reflecting my commitment to innovation and continuous learning. Feel free to explore and interact with the code! 🌐
-</ul>
-<ul>
-Check out my diverse range of projects, from algorithm implementations to data visualization using Tableau. 🚀
-</ul>
-</br>
-Let's connect and collaborate! 👨‍💻✨
-</br>
+
 Feel free to reach out for collaborations, discussions, or just a friendly coding chat! 🚀✨</h3>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikjpatel&show_icons=true&locale=en&layout=compact" alt="naitikjpatel" /></p>
