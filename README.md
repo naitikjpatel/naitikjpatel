@@ -146,11 +146,8 @@
 
 Feel free to reach out for collaborations, discussions, or just a friendly coding chat! 🚀✨</h3>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikjpatel&show_icons=true&locale=en&layout=compact" alt="naitikjpatel" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikjpatel&show_icons=true&locale=en&layout=compact" alt="naitikjpatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naitikjpatel&show_icons=true&locale=en" alt="naitikjpatel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikjpatel&" alt="naitikjpatel" /></p>
 
 <!--
 **naitikjpatel/naitikjpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
